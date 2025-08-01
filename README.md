@@ -19,7 +19,10 @@ You might need to resync gradle because sometimes pedropathing doesn't import ri
 https://visualizer.pedropathing.com/
 
 ## Pedropathing constants
-Don't worry about the FConstants and LConstants for pedropathing, once we build our drivetrain/robot I'll tune them and add the changes to this repository
+Don't worry about the FConstants and LConstants for pedropathing, once we build our drivetrain/robot I'll tune them and add the changes to this repository <br>
+
+## Pedropathing guide 
+https://pedropathing.com/pedro/overview.html 
 
 ## FTC Dashboard
 192.168.43.1:8080/dash <br>
